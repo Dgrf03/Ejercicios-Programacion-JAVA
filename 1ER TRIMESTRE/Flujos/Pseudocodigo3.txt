@@ -1,0 +1,9 @@
+inicio 
+	pido r 
+	pido area 
+		si area = πr2 
+			resultado = area 
+	pido longitud 
+		si longitud = 2πr 
+			resultado = longitud 
+fin

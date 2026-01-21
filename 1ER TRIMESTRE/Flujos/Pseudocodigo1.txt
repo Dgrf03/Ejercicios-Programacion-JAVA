@@ -1,0 +1,8 @@
+inicio 
+	pido A 
+	pido B  
+		si A > B 
+			resultado = A 
+		si A < B  
+			resultado = B
+fin

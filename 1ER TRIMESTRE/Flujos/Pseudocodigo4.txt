@@ -1,0 +1,15 @@
+Inicio 
+	pido operacion 
+		si operacion = suma 
+			pido A y B 
+				resultado = A + B 
+		si operacion = resta 
+			pido A y B 
+				resultado = A - B 
+		si operacion = multiplicacion 
+			pido A y B 
+				resultado = A * B 
+		si operacion = division 
+			pido A y B 
+				resultado = A / B 
+Fin 

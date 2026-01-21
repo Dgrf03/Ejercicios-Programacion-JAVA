@@ -1,0 +1,8 @@
+Inicio 
+	i=1 
+	mientras i<= 100 
+		si i es multiplo de 7 
+			Imprimo i 
+		i= i+1 
+	fin mientras 
+Fin

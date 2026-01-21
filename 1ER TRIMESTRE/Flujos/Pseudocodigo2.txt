@@ -1,0 +1,11 @@
+inicio  
+	pido A 
+	pido B  
+	pido C 
+		si A > B y A > C 
+			resultado = A 
+		si A < B y C < B  
+			resultado = B 
+		si A < B y C > B 
+			resultado = C 
+fin

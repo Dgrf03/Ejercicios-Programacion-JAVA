@@ -1,0 +1,10 @@
+Título: Libro 1
+Autor: Diego
+Editorial: La mia
+Número de páginas: 3000
+------------------------------
+Título: Libro 2
+Autor: Efren
+Editorial: Medac
+Número de páginas: 234
+------------------------------
